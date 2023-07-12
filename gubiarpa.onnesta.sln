@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Client", "Client", "{2CAA92F1-218F-447C-9169-1A5FD4EAB44F}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gubiarpa.onnesta.api", "gubiarpa.onnesta.api\gubiarpa.onnesta.api.csproj", "{8929999F-CD72-4E54-BC44-91A9867FCBEE}"
 EndProject
 Global
@@ -20,9 +18,6 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{8929999F-CD72-4E54-BC44-91A9867FCBEE} = {2CAA92F1-218F-447C-9169-1A5FD4EAB44F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B8B52E0A-0D7A-4C96-8708-C312641216DE}
